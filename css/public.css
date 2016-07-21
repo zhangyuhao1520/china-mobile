@@ -1,0 +1,14 @@
+body,h1,h2,h3,h4,h5,h6,ul,li,p,input{
+    margin:0;
+	padding:0;
+	list-style:none;
+	font-family:Arial,"微软雅黑";
+}
+a{
+	color: #333;
+	text-decoration:none;
+}
+/*图片被A标签包裹时，在IE8以下会有边框出现*/
+img{
+	border:none;
+}
